@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About Resurgent ##
+
+  Resurgent has the industry contacts, knowledge, and know-how to support our clients.
+content: >
+  ### Our Mission ###
+
+  Resurgent Payments takes a consultative approach to providing the tools necessary for our clients to accept payments.
+
+button1Name: Schedule an Appointment
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg

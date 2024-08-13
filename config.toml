@@ -1,0 +1,99 @@
+baseURL = "https://resurgentpayments.com"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "Portio"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+#[[menu.main]]
+#name = "About"
+#url = "#about"
+#weight = 2
+[[menu.main]]
+name = "Services"
+url = "#service"
+weight = 3
+#[[menu.main]]
+#name = "Work"
+#url = "#portfolio"
+#weight = 4
+#[[menu.main]]
+#name = "Resume"
+#url = "#resume"
+#weight = 5
+#[[menu.main]]
+#name = "Skills"
+#url = "#skills"
+#weight = 6
+[[menu.main]]
+name = "Articles"
+url = "/articles"
+weight = 7
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 8
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About us"
+url = "corporate"
+weight = 1
+[[menu.sitemap]]
+name = "Frequently Ask Question"
+url = "corporate/faq"
+weight = 2
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "corporate/privacy-policy"
+weight = 3
+[[menu.sitemap]]
+name = "Articles"
+url = "articles"
+weight = 4
+
+[params]
+blogPageURL = "articles"
+contactLink = "contact"
+copyright = "All right reserved copyright © Resurgent Payments, LLC 2023"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "49 Commerce Drive, Spring Ridge Wyomissing, PA 19610"
+email = "inbox@resurgentpayments.com"
+openingHours = "Please contact us and schedule an appointment"
+phone = "888.981.9832"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/people/Resurgent-Payments-LLC/100093037671452/"
+weight = 1
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/"
+weight = 2
+[[params.social]]
+icon = "fa-pinterest-square"
+url = "https://www.pinterest.com/"
+weight = 3
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/resurgentpmts"
+weight = 4
+
+#permalinks:
+[permalinks]
+  articles = '/articles/:year/:month/:title/'

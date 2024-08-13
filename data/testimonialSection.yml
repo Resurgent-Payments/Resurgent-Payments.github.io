@@ -1,0 +1,11 @@
+---
+enable: false
+topTitle: Testimonials
+title: >
+  ## From our Clients ##
+
+testimonial:
+  - name: George Bancroft
+    comment: Resurgent has made it easy for taking payment.
+    time: Jan 20, 2020
+    star: 5

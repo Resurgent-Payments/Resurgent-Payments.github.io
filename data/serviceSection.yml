@@ -1,0 +1,33 @@
+---
+enable: true
+topTitle: What We Offer
+title: >
+  ## Services ##
+
+  Merchant Services is no longer just processing a customer's credit card.
+service:
+  - content: >
+      #### Payment Processing #### 
+
+      Whether you sell toys or nutraceutical products, Resurgent can provide the specific tools and services needed
+    icon: "fs-2 bi bi-credit-card-2-back"
+  - content: >
+      #### Mobile Payments #### 
+
+      As the market has evolved, the ability to accept payment anywhere is a must. We can transform your phone into a payment terminal with ease
+    icon: "bi bi-phone-vibrate"
+  - content: >
+      #### Gift and Loyalty ####
+
+      These programs will give your “regulars” and new customers alike even more reasons to keep coming back, enabling you to increase revenue.
+    icon: "bi bi-bank"
+  - content: >
+      #### Cash Discounts ####
+
+      If taking credit and debit cards is becoming too expensive, cash discounting allows you to accept payment for a low monthly fee
+    icon: "bi bi-bank"
+  - content: >
+      #### Software Solutions ####
+
+      Whether a ready-made eCommerce platform, or a custom solution, Resurgent can consult and provide insights on best-practices
+    icon: "bi bi-code-slash"
