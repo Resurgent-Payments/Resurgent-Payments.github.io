@@ -58,7 +58,7 @@ weight = 4
 [params]
 blogPageURL = "articles"
 contactLink = "contact"
-copyright = "All right reserved copyright © Resurgent Payments, LLC 2023"
+copyright = "All right reserved copyright © Resurgent Payments, LLC 2024"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
