@@ -57,7 +57,7 @@ weight = 4
 
 [params]
 blogPageURL = "articles"
-contactLink = "contact"
+contactLink = "https://us3.list-manage.com/contact-form?u=a8e6664f6f982ad991a9a1054&form_id=094947f483d73ddd50dde5501ca90b67"
 copyright = "All right reserved copyright © Resurgent Payments, LLC 2024"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
