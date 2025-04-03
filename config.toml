@@ -83,7 +83,7 @@ url = "https://www.facebook.com/people/Resurgent-Payments-LLC/100093037671452/"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/company/resurgent-payments-llc"
 weight = 2
 [[params.social]]
 icon = "fa-pinterest-square"
